@@ -1,14 +1,6 @@
-# Project
+# Biosynthetic gene cluster (BiG) convolutional autoencoding representations of proteins (CARP)
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
-
-As the maintainer of this project, please make a few updates:
-
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+This repo contains training and plotting code for the paper [Deep self-supervised learning for biosynthetic gene cluster detection](). Model weights, data, and some results are available on [Zenodo](). If you'd like to use BiGCARP, the easiest way is through the [protein sequence models](https://github.com/microsoft/protein-sequence-models) repo. 
 
 ## Contributing
 
